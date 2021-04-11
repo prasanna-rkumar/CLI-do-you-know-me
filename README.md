@@ -1,2 +1,2 @@
 # CLI-do-you-know-me
-A node CLI quiz
+A node CLI quiz about me
